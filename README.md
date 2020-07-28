@@ -2,6 +2,8 @@
 
 A simple BMI calculator
 
+![](bmi_calculator.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
